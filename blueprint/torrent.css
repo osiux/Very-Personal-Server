@@ -1,0 +1,166 @@
+/*Customs*/
+body{background-image:url('./tile.png');font-size:75%;color:#222;}
+.tlist{
+width:560px;
+float:left;
+}
+.tcontainer{
+padding:0px;
+width:257px;
+height:270px;
+word-wrap: break-word;
+float:left;
+margin:10px;
+}
+.var1
+{
+background-color: #deff00;
+}
+.var2
+{
+background-color: #ffae00;
+}
+.var3
+{
+background-color: #ff0066;
+}
+.var4
+{
+background-color: #00d8ff;
+}
+.titem{
+padding:0px 0px 10px 15px;
+margin-left:25px;
+font-weight:bold;
+line-height:0.9em;
+font-size:1.2em;
+}
+.titemt{
+text-align: center;
+line-height: 1em;
+font-weight:bold;
+font-size:1em;
+padding: 0px 15px 10px 5px;
+}
+.tval{
+color: #5d5d5d;
+}
+.tplay
+{
+background-color: #FFF;
+padding:10px 15px 0px 15px;
+margin-left: 25px;
+text-align: right;
+}
+.tcontrol{
+width:280px;	
+float:right;
+background-image: url('./info.png');
+background-repeat: no-repeat;
+background-position: left top;
+}
+.tinfoc {
+text-align: left;
+background-color: #9299ef;	
+margin-left:27px;
+padding:10px;
+font-size:1.1em;
+font-weight:bold;
+line-height:1.1em;
+}
+.tcspan{
+color:#FFF;	
+}
+.tinfod {
+text-align:center;
+padding:10px;
+font-weight:bold;
+color:#FFF;
+font-size:1.5em;
+background-color: #afb4f1;	
+margin-left:27px;
+}
+
+.tinfof {
+background-color: #565db4;	
+margin-left:27px;
+color:#FFF;
+padding:10px;
+font-size:1.1em;
+font-weight:bold;
+line-height:1.1em;
+}
+.tinfofl {
+color:#FFF;
+}
+.tinfog {
+text-align:center;
+padding:10px;
+font-weight:bold;
+color:#FFF;
+font-size:1.5em;
+background-color: #afb4f1;	
+margin-left:55px;
+margin-top: 25px;
+margin-right: 35px;
+}
+.managert{
+font-family:'Dancing Script', arial, serif;
+font-size:3em;
+color:#FFF;
+padding:5px;
+}
+.header {
+background:#FFF;
+font-weight:bold;
+padding:2px;
+}
+.addform {
+background-image: url('./addback.png');
+width: 217px;
+height: 37px;
+padding: 5px 3px 5px 10px;
+margin-top: 10px;
+background-repeat: no-repeat;
+vertical-align: middle;
+}
+input[type=text],
+input[type=text]:hover,
+input[type=text]:focus,
+input[type=text]:active
+{
+    border: 0;
+    outline: none;
+    outline-offset: 0;
+}
+
+.urlplz {
+width: 175px;
+border:none;
+border-bottom-color: #FFF;
+font-size: 1em;
+font-weight: lighter;
+color:gray;
+padding:0px;
+}
+.urladd {
+background-image: url('./urladd.png');
+width: 30px;
+height: 28px;
+background-repeat: no-repeat;
+padding: 0px;
+text-indent: -1000em;
+background-color: transparent;
+border: 0;
+margin: 0;
+}
+.tmotion {
+margin: 10px;
+text-align: right;
+}
+.footer {
+	margin-top:20px;
+}
+.fx {
+margin-bottom: -5px;
+}

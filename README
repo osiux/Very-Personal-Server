@@ -1,0 +1,25 @@
+=========About=========
+Once there was a WRT160NL router, it needed to download so many stuff and to be controlled by two persons. 
+One of the controllers knew how to code.
+The other one barely could use a line command.
+Also the main controller was all day working at a firewalled network.
+So this trail begun.
+
+The intention of this app is to control remotely a home media network. So far is capable to do everything about torrents using tranmission-daemon.
+
+
+=========Credits=========
+http://codeigniter.com/
+http://code.google.com/p/php-transmission-class/
+Drop Box Icon by *2Shi @deviantart
+Icons Supratim Nayak / iconebula.com
+Interface by funkymonstruoslab.net
+
+=========Installation=========
+Requiriments:
+PHP5 SSH2 Extension
+
+Copy files in your Server
+Set your own parameters at application/config/vps.php
+
+Also you need to copy scripts to your remote server

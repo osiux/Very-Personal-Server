@@ -1,0 +1,6 @@
+<?= $formop; ?>
+<?= $finput; ?><hr />
+<?= $ftxtarea; ?><hr />
+<?= $formposter; ?>
+<?= $formsu; ?>
+<?= $formcl; ?>

@@ -1,0 +1,55 @@
+body{
+background-image:url('./esc.jpg');
+background-repeat:no-repeat;
+font-size:75%;
+color:#FFF;
+background-color:#000;
+}
+
+.dline{
+	font-family: 'Covered By Your Grace', arial, serif; 
+	padding:2px 0px 2px 100px;
+	background-color:#000;
+	margin-top:500px;
+	font-size:1.5em;
+	width: 680px;
+}
+.logo {
+	font-family: 'Covered By Your Grace', arial, serif; 
+    border: none;
+    font-size:2em;
+    background-color:#000;
+    color:#FFF;
+    padding:0px 20px 0px 20px; 
+   
+}
+.lform{
+vertical-align: middle;
+background-image:url('./Lock.png');
+background-repeat:no-repeat;
+background-position: left top;
+padding: 0 0 0 20px;
+background-position-y: 10px;
+}
+.loginput {
+width: 175px;
+font-size: 1.5em;
+font-weight: lighter;
+color:gray;
+padding:0 5px 0 5px;
+outline: none;
+}
+input[type=text],
+input[type=text]:hover,
+input[type=text]:focus,
+input[type=text]:active,
+input[type=password],
+input[type=password]:hover,
+input[type=password]:focus,
+input[type=password]:active
+{
+    border: 0;
+    outline: none;
+    outline-offset: 0;
+    margin: 0 10px 0 10px;
+}
